@@ -1,0 +1,26 @@
+{
+    "id": "5882A115",
+    "path": "~/Documents/DIY Class/kallisto/Step1_TxImport (1).R",
+    "project_path": "Step1_TxImport (1).R",
+    "type": "r_source",
+    "hash": "3427899726",
+    "contents": "",
+    "dirty": false,
+    "created": 1706995274196.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,0",
+        "scrollLine": "0"
+    },
+    "folds": "0|35|9|0|\n",
+    "lastKnownWriteTime": 1706995242,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1706995459639,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,23 @@
+[2024-01-31 17:04:11,685] multiqc                                            [DEBUG  ]  This is MultiQC v1.19
+[2024-01-31 17:04:11,685] multiqc                                            [DEBUG  ]  Command used: /Users/jakoto/miniconda/envs/rnaseq/bin/multiqc -d .
+[2024-01-31 17:04:12,002] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.19
+[2024-01-31 17:04:12,002] multiqc                                            [DEBUG  ]  Working dir : /Users/jakoto/Documents/DIY Class/Lab 2/fastq_subsampled
+[2024-01-31 17:04:12,002] multiqc                                            [DEBUG  ]  Template    : default
+[2024-01-31 17:04:12,002] multiqc                                            [DEBUG  ]  Running Python 3.11.7 | packaged by conda-forge | (main, Dec 23 2023, 14:38:52) [Clang 16.0.6 ]
+[2024-01-31 17:04:12,002] multiqc                                            [INFO   ]  Prepending directory to sample names
+[2024-01-31 17:04:12,003] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, mapdamage, biobambam2, jcvi, mtnucratio, picard, vep, bakta, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, seqera_cli, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, truvari, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, freyja, humid, kat, leehom, librarian, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, sourmash, kaiju, bracken, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap, xenome, xengsort
+[2024-01-31 17:04:12,003] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /var/folders/sf/g0kt5vkd6sn6hg0h_zffjh3m0000gp/T/tmps8ce93kt
+[2024-01-31 17:04:12,004] multiqc                                            [INFO   ]  Search path : /Users/jakoto/Documents/DIY Class/Lab 2/fastq_subsampled
+[2024-01-31 17:04:12,400] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_file_contents_search_errors: 890] // [skipped_module_specific_max_filesize: 463] // [skipped_no_match: 62] // [skipped_ignore_pattern: 10] // [skipped_filesize_limit: 1]
+[2024-01-31 17:04:13,009] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.8.2
+[2024-01-31 17:04:13,010] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.8.2
+[2024-01-31 17:04:13,011] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2024-01-31 17:04:13,014] multiqc.modules.kallisto.kallisto                  [INFO   ]  Found 10 reports
+[2024-01-31 17:04:13,028] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 10 reports
+[2024-01-31 17:04:13,058] multiqc.utils.software_versions                    [DEBUG  ]  Reading software versions from config.software_versions
+[2024-01-31 17:04:13,066] multiqc                                            [DEBUG  ]  Compressing plot data
+[2024-01-31 17:04:13,150] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2024-01-31 17:04:13,150] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2024-01-31 17:04:13,150] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/sf/g0kt5vkd6sn6hg0h_zffjh3m0000gp/T/tmps8ce93kt/multiqc_data' to '/Users/jakoto/Documents/DIY Class/Lab 2/fastq_subsampled/multiqc_data'
+[2024-01-31 17:04:13,156] multiqc                                            [DEBUG  ]  Full report path: /Users/jakoto/Documents/DIY Class/Lab 2/fastq_subsampled/multiqc_report.html
+[2024-01-31 17:04:13,243] multiqc                                            [INFO   ]  MultiQC complete
